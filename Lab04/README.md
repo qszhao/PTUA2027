@@ -1,5 +1,3 @@
-![logo](./images/ubdc_logo.png)
-
 # Intro to machine learning and deep learning using Python - PTUA 2027
 
 This is repository containing materials for Programming Tools for Urban Analytics Class
